@@ -1,0 +1,40 @@
+# hero section
+- NEW​
+- ARRIVALS
+- Go Shopping
+
+# banner section
+- MEN​/WOMEN
+- BACKPACK​
+- View Collection
+
+# featured products section
+- View All
+
+---
+- HEADPHONE ONE BLACK​
+- $29
+- buy now
+---
+- SPEAKER BEATS PILL​
+- $199
+- buy now
+---
+- APPLE AIR PODS​
+- $122
+- buy now
+---
+- SMARTWATCH F9 NEGRO
+- $156
+- buy now
+
+# special offer section
+- SPECIAL OFFER​
+- Special offerts discounts for women this week only
+- Shop Now
+
+# NEW ARRIVALS​ section
+- View All
+
+
+# font family:  Open Sans;

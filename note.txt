@@ -1,3 +1,12 @@
+#colors
+
+- primary color = #e55947
+- secondary color = #d2321e
+- text color = #101010
+- accent color = #606060
+
+==============================
+
 # hero section
 - NEW​
 - ARRIVALS

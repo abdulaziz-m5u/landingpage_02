@@ -46,4 +46,4 @@
 - View All
 
 
-# font family:  Open Sans;
+# font family:  Nunito Sans;
